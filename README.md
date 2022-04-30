@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-### biweekly-contest-77
+### [biweekly-contest-77](biweekly-contest-77)
 - :calendar: **Date**: 2022-04-30
 - :fire: **Rank**: 887 / 15519
 
